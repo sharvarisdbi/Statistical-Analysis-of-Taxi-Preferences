@@ -7,3 +7,4 @@ I intially prepared a google form which included few necessary questions and thi
 
 Sem 2
 I made a few modifications in the google form which was again filled by various people and then I applied Inferential Statistics using Python as language and Jupyter as a repository.
+I applied various tests like F-test, T-test, One way Anova Brand, and Chi-square test.
