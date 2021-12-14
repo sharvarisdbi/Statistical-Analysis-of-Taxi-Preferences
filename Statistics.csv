@@ -1,0 +1,152 @@
+Age Group,Gender,Profession,Better Service Provider,Pocket friendly Service,Cashless transactions problem,Daily_spendings,Monthly_spending,Quality decider attribute,Frequency of booking ,Most usage day,Punctual service,Offer provider,Fast connector to driver,Faster issue resolver
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,200,2000,Most,2-3 times in a month,Weekends,Ola,Uber,Ola,Uber
+15 - 30,Female,Student,Ola,Ola,More often in Uber,100,1500,Pricing,Only on special occasions,Weekends,Ola,Uber,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Uber,Faced this issue equally in both,50,1000,Driver's behaviour,Only on special occasions,Weekends,Both equally,Ola,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Uber,Never faced this issue,200,1000,Driver's behaviour,Only on special occasions,Weekdays,Both equally,None,Ola,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,100,500,Driver's behaviour,2-3 times in a month,Weekends,Both equally,Ola,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,None of the above,Faced this issue equally in both,50,200,Punctuality,2-3 times in a month,Weekends,Ola,Uber,Both equally,Uber
+15 - 30,Male,Student,Both provide equal quality,None of the above,Never faced this issue,100,500,Car quality,Only on special occasions,Weekends,Uber,Both equally,Uber,Never faced any issue
+30 - 50,Female,Business,None of the above,None of the above,Never faced this issue,50,100,Pricing,Only on special occasions,Weekends,None of the above,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,More often in Ola,300,500,Driver's behaviour,2-3 times in a month,Weekends,Uber,Uber,Uber,Uber
+15 - 30,Male,Student,Uber,Uber,More often in Uber,100,250,Driver's behaviour,Only on special occasions,Weekdays,Uber,Uber,Uber,Uber
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,50,600,Car quality,Only on special occasions,Weekends,None of the above,Both equally,Uber,None
+15 - 30,Female,Student,Ola,Uber,Never faced this issue,100,600,Punctuality,Only on special occasions,Weekends,Both equally,Ola,Both equally,Never faced any issue
+15 - 30,Female,Student,Ola,None of the above,Never faced this issue,700,600,Car quality,Only on special occasions,Weekends,Ola,None,Both equally,Never faced any issue
+15 - 30,Female,Private sector employee,Both provide equal quality,Ola,Never faced this issue,100,200,Pricing,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,300,800,Punctuality,2-3 times in a month,Weekdays,Ola,None,Ola,Never faced any issue
+15 - 30,Female,Private sector employee,Ola,Ola,Never faced this issue,100,1000,Pricing,2-3 times in a month,Weekdays,Ola,Ola,Ola,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,More often in Ola,100,2000,Punctuality,2-3 times in a month,Weekdays,Ola,Uber,Uber,Uber
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,50,5000,Pricing,Only on special occasions,Weekends,Ola,Ola,Ola,None
+15 - 30,Female,Student,Uber,Uber,Faced this issue equally in both,50,200,Pricing,Only on special occasions,Weekends,Uber,Uber,Uber,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,More often in Uber,200,1239,Driver's behaviour,Only on special occasions,Weekdays,Both equally,Both equally,Ola,Ola
+15 - 30,Male,Student,Ola,Uber,Never faced this issue,300,3500,Driver's behaviour,2-3 times in a month,Weekends,Ola,None,Ola,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,More often in Ola,100,2000,Pricing,Only on special occasions,Weekends,Ola,Ola,None,Ola
+15 - 30,Female,Private sector employee,None of the above,Ola,Never faced this issue,50,1000,Pricing,Only on special occasions,Weekends,Uber,None,Ola,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,50,1400,Pricing,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,50,1200,Car quality,Only on special occasions,Weekdays,Ola,None,Ola,Never faced any issue
+15 - 30,Female,Student,Ola,None of the above,Never faced this issue,100,550,Pricing,Only on special occasions,Weekends,None of the above,Both equally,None,None
+15 - 30,Female,Student,Both provide equal quality,Uber,More often in Ola,300,500,Car quality,Only on special occasions,Weekends,Uber,None,Both equally,None
+15 - 30,Male,Student,Both provide equal quality,Uber,More often in Ola,50,300,Punctuality,2-3 times in a month,Weekdays,Ola,Ola,Uber,Uber
+15 - 30,Male,Student,Ola,Ola,More often in Uber,50,500,Pricing,2-3 times in a month,Weekends,Uber,Ola,Both equally,Uber
+15 - 30,Female,Student,Both provide equal quality,Ola,More often in Uber,500,4000,Pricing,2-3 times in a week,Weekends,Uber,Uber,Both equally,Uber
+15 - 30,Female,Student,Both provide equal quality,Ola,Never faced this issue,50,300,Car quality,Only on special occasions,Weekdays,Both equally,Both equally,Both equally,Never faced any issue
+30 - 50,Female,Unemployed,Uber,Uber,More often in Ola,100,195,Car quality,2-3 times in a month,Weekdays,Uber,Uber,Uber,Uber
+15 - 30,Female,Private sector employee,Ola,Ola,Never faced this issue,100,800,Pricing,2-3 times in a week,Weekdays,Ola,Ola,Ola,Ola
+15 - 30,Male,Student,Uber,Uber,More often in Ola,200,200,Punctuality,2-3 times in a month,Weekends,Uber,Uber,Uber,Uber
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,50,900,Punctuality,2-3 times in a month,Weekdays,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Ola,None of the above,Never faced this issue,200,2000,Driver's behaviour,Only on special occasions,Weekends,Ola,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Ola,Faced this issue equally in both,200,1000,Pricing,2-3 times in a month,Weekends,Ola,Ola,Ola,None
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,50,3000,Driver's behaviour,Only on special occasions,Weekdays,Ola,Ola,Ola,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,More often in Ola,100,300,Punctuality,2-3 times in a month,Weekends,Ola,Ola,Ola,Ola
+15 - 30,Female,Student,Both provide equal quality,Ola,Never faced this issue,200,500,Pricing,Only on special occasions,Weekends,None of the above,Ola,Both equally,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,50,5000,Pricing,Only on special occasions,Weekends,None of the above,None,None,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,500,1700,Pricing,2-3 times in a month,Weekdays,Ola,Ola,Both equally,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,100,500,Driver's behaviour,Only on special occasions,Weekends,Uber,Uber,Uber,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,None of the above,Never faced this issue,50,1000,Driver's behaviour,Only on special occasions,Weekdays,None of the above,Ola,None,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,More often in Uber,200,4000,Driver's behaviour,2-3 times in a month,Weekends,Uber,Uber,Both equally,Uber
+15 - 30,Female,Student,None of the above,None of the above,Never faced this issue,50,2300,Pricing,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Ola,More often in Ola,300,400,Punctuality,Only on special occasions,Weekdays,Ola,Both equally,Both equally,Uber
+15 - 30,Female,Student,Uber,Ola,Never faced this issue,600,2000,Punctuality,2-3 times in a month,Weekdays,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Ola,None of the above,Never faced this issue,200,50,Pricing,Only on special occasions,Weekends,Ola,None,Ola,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Ola,More often in Uber,50,200,Punctuality,Only on special occasions,Weekends,Both equally,Uber,Ola,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,50,500,Pricing,Only on special occasions,Weekends,Uber,Both equally,Uber,None
+15 - 30,Male,Student,Both provide equal quality,Uber,Never faced this issue,200,900,Pricing,Only on special occasions,Weekends,Both equally,Ola,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Ola,More often in Uber,100,2000,Car quality,2-3 times in a month,Weekends,Uber,Both equally,Both equally,Ola
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,200,2500,Driver's behaviour,2-3 times in a month,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Uber,Never faced this issue,200,1000,Punctuality,Only on special occasions,Weekends,Both equally,Ola,Ola,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,100,500,Driver's behaviour,Only on special occasions,Weekends,Both equally,Ola,Both equally,Never faced any issue
+30 - 50,Male,Private sector employee,Both provide equal quality,Ola,Faced this issue equally in both,600,1000,Driver's behaviour,2-3 times in a month,Weekdays,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Ola,Never faced this issue,50,300,Driver's behaviour,Only on special occasions,Weekdays,Both equally,Both equally,Both equally,Never faced any issue
+30 - 50,Male,Business,Both provide equal quality,Ola,Faced this issue equally in both,300,1000,Pricing,2-3 times in a week,Weekdays,Both equally,Both equally,Both equally,Ola
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,50,200,Punctuality,Only on special occasions,Weekends,Both equally,Both equally,Ola,Ola
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,300,2000,Punctuality,2-3 times in a week,Weekends,Ola,Ola,Ola,Never faced any issue
+15 - 30,Male,Private sector employee,Both provide equal quality,Ola,Never faced this issue,50,100,Punctuality,2-3 times in a month,Weekdays,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Ola,Never faced this issue,200,500,Punctuality,2-3 times in a month,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,50,1000,Punctuality,Only on special occasions,Weekends,Both equally,Ola,Ola,Ola
+15 - 30,Male,Student,Both provide equal quality,Uber,Never faced this issue,100,3000,Pricing,Only on special occasions,Weekends,Ola,Uber,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,50,1000,Pricing,2-3 times in a month,Weekends,Ola,Both equally,Both equally,Ola
+15 - 30,Male,Student,Both provide equal quality,Uber,Never faced this issue,100,3000,Car quality,2-3 times in a month,Weekends,Both equally,Uber,Uber,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,None of the above,Never faced this issue,100,2600,Car quality,Only on special occasions,Weekends,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,None of the above,Never faced this issue,50,1000,Punctuality,Only on special occasions,Weekends,Both equally,None,Ola,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,None of the above,Never faced this issue,1000,600,Driver's behaviour,Only on special occasions,Weekends,None of the above,None,None,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,50,900,Pricing,Only on special occasions,Weekends,Both equally,Uber,Both equally,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,More often in Uber,400,400,Punctuality,Only on special occasions,Weekends,None of the above,Uber,Uber,Uber
+15 - 30,Male,Student,Ola,Ola,More often in Uber,300,500,Pricing,Only on special occasions,Weekdays,Ola,Ola,Ola,Ola
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,100,200,Car quality,Only on special occasions,Weekends,Ola,None,Ola,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,Never faced this issue,500,5000,Punctuality,Only on special occasions,Weekdays,Both equally,Uber,Uber,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,None of the above,Never faced this issue,50,500,Car quality,Only on special occasions,Weekends,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Ola,More often in Ola,50,950,Pricing,2-3 times in a month,Weekends,Both equally,Both equally,Both equally,Ola
+15 - 30,Female,Student,Uber,Uber,Faced this issue equally in both,100,5000,Pricing,Only on special occasions,Weekdays,Both equally,Uber,Uber,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,100,500,Punctuality,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,100,5000,Pricing,2-3 times in a month,Weekends,Ola,Ola,Ola,Ola
+15 - 30,Female,Student,Both provide equal quality,None of the above,Never faced this issue,100,1000,Driver's behaviour,Only on special occasions,Weekends,Both equally,Ola,Ola,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,Never faced this issue,400,1200,Pricing,Only on special occasions,Weekends,Uber,Both equally,Uber,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,50,500,Punctuality,Only on special occasions,Weekends,Ola,Both equally,Both equally,Ola
+15 - 30,Male,Student,Ola,Ola,More often in Ola,100,2400,Pricing,Only on special occasions,Weekdays,Ola,Ola,Ola,Ola
+15 - 30,Female,Student,Ola,Ola,Faced this issue equally in both,50,150,Pricing,Only on special occasions,Weekends,Ola,Ola,Ola,Ola
+15 - 30,Female,Student,Ola,Uber,Never faced this issue,100,1000,Punctuality,2-3 times in a month,Weekdays,Ola,Ola,Both equally,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,50,500,Driver's behaviour,2-3 times in a month,Weekdays,Uber,Uber,Uber,Uber
+15 - 30,Female,Student,Both provide equal quality,None of the above,Never faced this issue,200,20,Pricing,2-3 times in a month,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Female,Private sector employee,None of the above,None of the above,Never faced this issue,50,40,Car quality,Only on special occasions,Weekends,None of the above,None,None,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,100,250,Pricing,2-3 times in a month,Weekends,Ola,Ola,Ola,Never faced any issue
+15 - 30,Female,Student,Ola,Uber,Faced this issue equally in both,1000,1000,Pricing,Only on special occasions,Weekends,Both equally,Ola,Ola,None
+15 - 30,Male,Student,Uber,Uber,Faced this issue equally in both,100,6000,Punctuality,Only on special occasions,Weekends,Uber,Both equally,Uber,Uber
+15 - 30,Male,Student,Ola,Uber,Never faced this issue,50,500,Punctuality,Only on special occasions,Weekends,Both equally,Both equally,Ola,Never faced any issue
+15 - 30,Male,Business,None of the above,Uber,Never faced this issue,200,4000,Pricing,Only on special occasions,Weekends,Uber,Uber,Uber,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,200,3000,Driver's behaviour,Only on special occasions,Weekends,Both equally,Both equally,Uber,Never faced any issue
+15 - 30,Male,Private sector employee,Ola,None of the above,Never faced this issue,50,400,Pricing,2-3 times in a week,Weekends,Ola,Ola,Ola,None
+15 - 30,Female,Student,Uber,Uber,Faced this issue equally in both,50,300,Driver's behaviour,2-3 times in a month,Weekends,Uber,Uber,Uber,None
+15 - 30,Male,Student,Both provide equal quality,Uber,Never faced this issue,100,100,Car quality,Only on special occasions,Weekends,Both equally,Uber,Uber,Never faced any issue
+15 - 30,Male,Student,Uber,Ola,More often in Uber,50,600,Pricing,2-3 times in a month,Weekends,Uber,Uber,Uber,Uber
+15 - 30,Male,Student,Uber,Uber,Never faced this issue,200,800,Pricing,2-3 times in a month,Weekends,Both equally,Uber,Uber,Never faced any issue
+15 - 30,Male,Student,Uber,Uber,Never faced this issue,100,2000,Pricing,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,More often in Ola,50,100,Driver's behaviour,Only on special occasions,Weekends,Ola,Ola,Ola,Ola
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,50,1000,Punctuality,2-3 times in a month,Weekends,Ola,Ola,Ola,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,200,2500,Pricing,2-3 times in a month,Weekdays,Both equally,Uber,Uber,Uber
+30 - 50,Female,Unemployed,Both provide equal quality,Uber,Never faced this issue,100,500,Punctuality,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,50,2000,Punctuality,Only on special occasions,Weekends,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,None of the above,None of the above,Never faced this issue,50,2000,Car quality,Only on special occasions,Weekends,None of the above,None,None,None
+15 - 30,Female,Student,Ola,Ola,More often in Ola,100,2500,Car quality,Only on special occasions,Weekends,Ola,None,Ola,None
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,100,2500,Pricing,Only on special occasions,Weekends,Both equally,None,Uber,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,50,4000,Pricing,Only on special occasions,Weekdays,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,None of the above,Never faced this issue,50,350,Pricing,Only on special occasions,Weekends,Both equally,Both equally,Uber,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,300,300,Pricing,Only on special occasions,Weekends,Both equally,None,Both equally,Never faced any issue
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,50,500,Pricing,Only on special occasions,Weekdays,Both equally,Ola,Both equally,None
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,50,500,Pricing,Only on special occasions,Weekends,Uber,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,100,500,Car quality,Only on special occasions,Weekends,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,Never faced this issue,600,300,Pricing,Only on special occasions,Weekends,Both equally,Uber,Both equally,Never faced any issue
+15 - 30,Male,Student,Both provide equal quality,Uber,Never faced this issue,100,650,Pricing,Only on special occasions,Weekends,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,100,250,Pricing,2-3 times in a month,Weekends,Ola,Ola,Ola,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,100,250,Pricing,2-3 times in a month,Weekends,Ola,Ola,Ola,Never faced any issue
+15 - 30,Female,Student,Ola,Ola,Never faced this issue,50,150,Driver's behaviour,2-3 times in a week,Weekends,Ola,None,Ola,Ola
+15 - 30,Female,Student,Uber,Uber,More often in Uber,50,150,Car quality,Only on special occasions,Weekends,Both equally,Both equally,Both equally,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,More often in Ola,100,3000,Pricing,Daily,Weekdays,Uber,Uber,Uber,Uber
+15 - 30,Female,Private sector employee,Ola,Ola,Never faced this issue,100,600,Pricing,Only on special occasions,Weekends,Both equally,Ola,Both equally,None
+15 - 30,Female,Student,Both provide equal quality,Ola,Never faced this issue,100,500,Car quality,2-3 times in a week,Weekdays,Both equally,Both equally,Both equally,Ola
+15 - 30,Male,Student,Uber,Uber,Faced this issue equally in both,50,200,Pricing,2-3 times in a month,Weekdays,Uber,Uber,Uber,Uber
+15 - 30,Female,Student,Both provide equal quality,Ola,Never faced this issue,100,200,Pricing,Only on special occasions,Weekends,Ola,Ola,Ola,Never faced any issue
+15 - 30,Female,Student,Both provide equal quality,Uber,Faced this issue equally in both,300,500,Pricing,2-3 times in a month,Weekdays,None of the above,None,Both equally,Never faced any issue
+15 - 30,Male,Business,Both provide equal quality,Ola,Never faced this issue,50,500,Pricing,Only on special occasions,Weekends,Both equally,Ola,Both equally,Never faced any issue
+15 - 30,Female,Student,Uber,Uber,More often in Ola,1000,1000,Pricing,Only on special occasions,Weekends,Uber,Uber,Uber,Uber
+15 - 30,Female,Student,Both provide equal quality,Uber,Faced this issue equally in both,50,700,Car quality,Only on special occasions,Weekdays,Both equally,Uber,Both equally,Uber
+15 - 30,Male,Student,Both provide equal quality,Ola,Never faced this issue,500,1000,Pricing,Only on special occasions,Weekends,Both equally,Ola,Both equally,Never faced any issue
+15 - 30,Female,Business,Both provide equal quality,Ola,Never faced this issue,300,3000,Pricing,2-3 times in a week,Weekdays,Uber,Uber,Uber,Never faced any issue
+15 - 30,Female,Business,Uber,Uber,Never faced this issue,100,2000,Punctuality,2-3 times in a week,Weekdays,Both equally,Uber,Ola,Never faced any issue
+15 - 30,Female,Business,Ola,Uber,More often in Ola,200,2400,Driver's behaviour,2-3 times in a month,Weekends,Ola,Uber,Ola,Ola
+30 - 50,Male,Government sector employee,Ola,Ola,More often in Uber,100,3500,Pricing,Daily,Weekdays,Uber,Uber,Ola,Uber
+30 - 50,Male,Government sector employee,Uber,Uber,Never faced this issue,50,1600,Pricing,Daily,Weekdays,Uber,Uber,Both equally,Never faced any issue
+50 +,Female,Unemployed,Uber,Uber,More often in Ola,600,800,Driver's behaviour,2-3 times in a month,Weekends,Ola,Uber,Uber,Uber
+50 +,Male,Private sector employee,Ola,Ola,More often in Uber,200,2000,Punctuality,2-3 times in a week,Weekdays,Ola,Ola,Ola,Uber
+30 - 50,Male,Business,Both provide equal quality,Ola,More often in Uber,900,4000,Pricing,2-3 times in a week,Weekdays,Uber,Uber,Uber,Ola
+50 +,Male,Business,Ola,Ola,More often in Uber,100,2400,Pricing,Daily,Weekdays,Ola,Ola,Ola,Ola
+30 - 50,Male,Government sector employee,Uber,Uber,More often in Ola,200,2000,Punctuality,2-3 times in a week,Weekdays,Uber,Uber,Uber,Uber
+30 - 50,Female,Private sector employee,Uber,Uber,More often in Uber,100,1000,Punctuality,2-3 times in a week,Weekdays,Uber,Uber,Uber,Ola
+15 - 30,Female,Student,Both provide equal quality,Uber,Never faced this issue,200,500,Pricing,Only on special occasions,Weekends,Uber,Uber,Both equally,Never faced any issue
+30 - 50,Male,Private sector employee,Uber,Uber,More often in Ola,100,4000,Pricing,2-3 times in a week,Weekends,Uber,Uber,Uber,Uber
+15 - 30,Male,Student,Ola,Ola,Never faced this issue,200,1000,Punctuality,Only on special occasions,Weekends,Ola,Ola,Ola,Never faced any issue
+50 +,Male,Government sector employee,Both provide equal quality,Ola,More often in Ola,300,2000,Driver's behaviour,2-3 times in a month,Weekdays,Uber,Uber,Ola,Uber
+50 +,Male,Business,Ola,Ola,More often in Uber,200,2700,Driver's behaviour,Daily,Weekdays,Ola,Uber,Ola,Ola
+50 +,Female,Business,Uber,Ola,More often in Uber,400,2500,Punctuality,2-3 times in a week,Weekdays,Uber,Uber,Ola,Ola
+30 - 50,Female,Government sector employee,Uber,Uber,More often in Uber,100,2000,Pricing,Daily,Weekdays,Uber,Uber,Uber,Uber
+50 +,Male,Business,Ola,Ola,More often in Uber,100,1000,Pricing,2-3 times in a week,Weekends,Uber,Ola,Uber,Ola
+50 +,Male,Government sector employee,Uber,Uber,More often in Ola,500,4000,Driver's behaviour,2-3 times in a week,Weekdays,Uber,Uber,Uber,None
